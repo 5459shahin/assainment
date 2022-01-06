@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first-section{
+    display: flex;
+    width: 80%;
+   
+  
+}
+.dhaka-city{
+    border-left: 2px solid rgb(43, 255, 0);
+    padding-left: 8px;
+    font-size: 30px;
+
+}
+.city-of-dhaka{
+    width: 450px;
+ 
+    margin-left: 30%;
+    margin-top: 40px;
+    
+}
+.scroll{
+    color: rgba(99, 92, 92, 0.822);
+}
+.diffren-color{
+    color: rgb(233, 229, 18);
+    font-size: 40px;
+}
+.images-width{
+    width: 300px;
+    margin-left: 20%;
+    margin-top: 60px;
+
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    border: 1px solid yellowgreen;
+    background-image: radial-gradient(rgb(193, 221, 31),rgb(32, 197, 95));
+    border-radius: 5px;
+   
+   
+}
+.btn:hover{
+    background-image:  radial-gradient(rgb(123, 143, 10),rgb(12, 228, 95));
+    color: wheat;
+}
+.btn a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+   
+}
+
+/*======================
+   second section
+=========================*/
+.second-section{
+    margin-top: 50px;
+}
+.my-mission{
+    text-align: center;
+}
+
+.mission-card{
+    display: flex;
+    margin-left: 20px;
+    padding-left: 100px;
+    display: flex;
+    width: 80%;
+ 
+}
+.card{
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+    background-color: thistle;
+}
+.images-card{
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 15px;
+
+
+}
+.text-style{
+    text-align: center;
+
+}
+
+
+/*=============
+  this is a thard section
+  =======================*/
+
+.thart-section{
+    display: flex;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 80px;
+ 
+}
+.city-of{
+    margin-left: 50px;
+    width: 80%;
+    border-radius: 5px;
+
+}
+.university{
+    width: 500px;
+    margin-left: 20px;
+}
+.click{
+    margin-left: 20px;
+    width: 120px;
+
+}
+
+
+/*===============
+this is a four section
+======================*/
+
+.BUET{
+    display: flex;
+    width: 80%;
+    margin-left: 90px;
+    margin-top: 100px;
+    
+    height: 400px;
+}
+.section-four{
+    width: 200x;
+    margin-left: 100px;
+    
+
+    
+}
+.section-four {
+   
+    width: 400px;
+}
+.buet-university{
+    margin-left: 100px;
+}
+.buetuniversity{
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+/* ====================
+this is a five section
+======================*/
+
+
+
+this is a footer section
+=======================*/
+.most-popular-University{
+    text-align: center;
+    background-color: lavender;
+    margin-bottom: 40px;
+}
+.most-popularv{
+    text-align: justify;
+    margin-left: 35%;
+}
+
+
+/*==============
+this is a footer section
+=======================*/
+.footer{
+    background-color: black;
+    color: blue;
+    height: 150px;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(110, 26, 54);
+
+}
+.copyright{
+    padding-top: 20px;
+}
+.copy{
+    color: rgb(198, 198, 212);
+}
+
+/*========
+   END
+  ========*/
